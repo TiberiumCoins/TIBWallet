@@ -5,7 +5,7 @@
   "validators": [
     {
       "pub_key": {
-        "data": "XXXX",
+        "data": "534588CC2D4DCC771A93080E90EAFEF0EE327BE4247350650EC0070543E58DBD",
         "type": "ed25519"
       },
       "power": 10000,
