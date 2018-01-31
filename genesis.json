@@ -10,6 +10,14 @@
       },
       "power": 10000,
       "name": "mog"
+    },
+    {
+      "pub_key": {
+          "data": "843B72603D9E8AB1DFB551433FFD9BF31983695298CCA8DFE038B23CB27CC125",
+        "type": "ed25519"
+      },
+      "power": 10,
+      "name": "hitsumoo"
     }
   ]
 }
