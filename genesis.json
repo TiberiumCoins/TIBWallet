@@ -1,0 +1,15 @@
+{
+  "genesis_time": "2018-01-20T02:31:37Z",
+  "chain_id": "tiberium-0",
+  "app_hash": "",
+  "validators": [
+    {
+      "pub_key": {
+        "data": "XXXX",
+        "type": "ed25519"
+      },
+      "power": 10000,
+      "name": "mog"
+    }
+  ]
+}

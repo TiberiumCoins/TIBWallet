@@ -1,0 +1,30 @@
+{
+  "name": "tiberium",
+  "version": "0.0.1",
+  "description": "tiberium wallet",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "tiberium": "bin/wallet.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiberiumCoins/TIBWallet.git"
+  },
+  "keywords": [],
+  "author": "AlexMog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiberiumCoins/TIBWallet/issues"
+  },
+  "homepage": "https://github.com/TiberiumCoins/TIBWallet",
+  "dependencies": {
+    "coins": "^2.2.4",
+    "lotion": "^0.1.11",
+    "mkdirp": "^0.5.1"
+  }
+}
